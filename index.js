@@ -25,7 +25,7 @@ const BK_CONFIG = {
   sniHy2: "www.google.com",
   massProxyUrl: "https://www.gstatic.com",
   enable: {
-    hysteria2: true,
+    hysteria2: false,
     vlessWs: true,
     vlessWsTls: true,
     vlessHttpUpgrade: true,
